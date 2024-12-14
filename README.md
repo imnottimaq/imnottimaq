@@ -1,8 +1,8 @@
 ## Hi there 👋
 ## You can contact me on:
-# Discord: imnottimaq
-# Telegram: @imnottima1
-# Email: tima3050505@gmail.com
+### Discord: imnottimaq
+### Telegram: @imnottima1
+#### Email: tima3050505@gmail.com
 
 <!--
 **imnottimaq/imnottimaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
